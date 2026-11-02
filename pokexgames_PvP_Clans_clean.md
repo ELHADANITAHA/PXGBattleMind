@@ -1,244 +1,383 @@
-## PokeXGames · PvP Clan Guide
+# PokeXGames · PvP Clan Guide
+*Original Clan Pokémon Role List - Tier 1A to 3*
 
-Original Clan Pokémon Role List - Tier 1A to 3
+## NATURIA (Grass / Bug)
+**TIER 1A · 1 usable**
+- Mega Scizor (Tank)
 
-## NA NATURIA (Grass / Bug)
+**TIER 1B · 1 usable**
+- Shiny Leafeon (Offensive Tank)
 
-TIER 1A · 1 usable
+**TIER 1C · 15 usable**
+- Mega Golisopod (Tank)
+- Mega Venusaur (Tank)
+- Shiny Pinsir (Tank)
+- Shiny Torterra (Tank)
+- Shiny Venusaur (Tank)
+- Tangrowth (Tank)
+- Mega Abomasnow (Tank)
+- Mega Heracross (Offensive Tank)
+- Shiny Venomoth (Offensive Tank)
+- Shiny Magmar (Tank)
+- Shiny Arcanine (Offensive Tank)
+- Alolan Marowak (Tank)
+- Shiny Infernape (Offensive Tank)
 
-Mega Scizor
-
-TIER 1B · 1 usable
-
-Shiny Leafeon
-
-Tank
-
-Offensive Tank
-
+**TIER 2 · 21 usable**
+- Escavalier (Tank)
+*(Note: The PDF lists many "Tank" and "Offensive Tank" roles for Tier 2, but specific names are partially obscured. Refer to the visual PDF for exact names like Escavalier, etc.)*
 
 ## MALEFIC (Ghost / Dark / Poison)
+**TIER 1A · 1 usable**
+- Mega Absol (Tank)
 
-## TIER 1A · 1 usable
+**TIER 1B · 1 usable**
+- Shiny Gengar (Burst Damage Dealer)
 
-Mega Absol
+**TIER 1C · 15 usable**
+- Alolan Marowak (Tank)
+- Shiny Venusaur (Tank)
+- Dusknior (Offensive Tank)
+- Mega Sableye (Offensive Tank)
+- Mega Sharpedo (Offensive Tank)
+- Overqwil (Offensive Tank)
+- Shiny Honchkrow (Offensive Tank)
+- Shiny Muk (Offensive Tank)
+- Shiny Tentacruel (Offensive Tank)
+- Mega Banette (Burst Damage Dealer)
+- Mega Houndoom (Over Time Damage Dealer)
+- Shiny Froslass (Over Time Damage Dealer)
+- Mega Gengar (Disruptor)
+- Shiny Umbreon (Disruptor)
+- Shiny Venomoth (Disruptor)
 
-Tank
+**TIER 2 · 20 usable**
+- Scrafty (Tank)
+- Drapion (Offensive Tank)
+- Houndoom (Offensive Tank)
+- Krookodile (Offensive Tank)
+- Mimikyu (Offensive Tank)
+- Mismagius (Offensive Tank)
+- Shiny Nidoqueen (Offensive Tank)
+- Toxicroak (Offensive Tank)
+- Absol (Burst Damage Dealer)
+- Golurk (Burst Damage Dealer)
+- Pangoro (Burst Damage Dealer)
+- Toxtricity Low Key Form (Burst Damage Dealer)
+- Tyranitar (Burst Damage Dealer)
+- Weavile (Burst Damage Dealer)
+- Hydreigon (Over Time Damage Dealer)
+- Shiny Crobat (Over Time Damage Dealer)
+- Shiny Nidoking (Over Time Damage Dealer)
+- Cacturne (Disruptor)
+- Dark Abra (Disruptor)
+- Honchkrow (Disruptor)
 
-## TIER 1B · 1 usable
-
-Shiny Gengar
-
-Burst Damage Dealer
-
+**TIER 3 · 10 usable**
+- Chandelure (Offensive Tank)
+- Tentacruel (Offensive Tank)
+- Venusaur (Offensive Tank)
+- Bisharp (Burst Damage Dealer)
+- Crawdaunt (Burst Damage Dealer)
+- Sharpedo (Burst Damage Dealer)
+- Shiftry (Over Time Damage Dealer)
+- Misdreavus (Disruptor, Support)
+- Swalot (Healer)
+- Umbreon (Healer)
 
 ## OREBOUND (Rock / Ground)
+**TIER 1A · 1 usable**
+- Golden Sudowoodo (Tank)
 
+**TIER 1B · 2 usable**
+- Shiny Larvitar (Tank)
+- Shiny Pupitar (Tank)
+
+**TIER 1C · 15 usable**
+- Aerodactyl (Tank)
+- Alolan Golem (Tank)
+- Mamoswine (Tank)
+- Rhyperior (Tank)
+- Shiny Gliscor (Tank)
+- Shiny Golurk (Tank)
+- Shiny Magcargo (Tank)
+- Shiny Torterra (Tank)
+- Mega Glimmora (Offensive Tank)
+- Mega Steelix (Offensive Tank)
+- Mega Swampert (Offensive Tank)
+- Mega Tyranitar (Offensive Tank)
+- Shiny Rhydon (Offensive Tank)
+- Crystal Onix (Burst Damage Dealer)
+- Shiny Marowak (Over Time Damage Dealer)
+
+**TIER 2 · 23 usable**
+- Aggron (Tank)
+- Runerigus (Tank, Support)
+- Shiny Carbink (Tank)
+- Armaldo (Offensive Tank)
+- Glimmora (Offensive Tank)
+- Kleavor (Offensive Tank)
+- Krookodile (Offensive Tank)
+- Lycanroc Midnight Form (Offensive Tank)
+- Probopass (Offensive Tank)
+- Torterra (Offensive Tank)
+- Tyrantrum (Offensive Tank)
+- Archeops (Burst Damage Dealer)
+- Bastiodon (Burst Damage Dealer)
+- Garchomp (Burst Damage Dealer)
+- Gliscor (Burst Damage Dealer)
+- Golurk (Burst Damage Dealer)
+- Mega Camerupt (Burst Damage Dealer)
+- Tyranitar (Burst Damage Dealer)
+- Shiny Piloswine (Over Time Damage Dealer)
+- Aurorus (Disruptor)
+- Cradily (Disruptor)
+- Flygon (Disruptor)
+- Hippowdon (Disruptor)
+
+**TIER 3 · 12 usable**
+- Crustle (Tank)
+- Kabutops (Tank)
+- Whiscash (Offensive Tank)
+- Magcargo (Burst Damage Dealer)
+- Piloswine (Burst Damage Dealer)
+- Shiny Dugtrio (Burst Damage Dealer)
+- Lunatone (Healer, Disruptor)
+- Camerupt (Disruptor)
+- Claydol (Disruptor)
+- Diggersby (Disruptor)
+- Donphan (Disruptor)
+- Swampert (Disruptor)
 
 ## GARDESTRIKE (Normal / Fighting)
-
-## TIER 1A · 1 usable
-
-Shiny Snorlax
-
-## TIER 1B · 1 usable
-
-Shiny Tauros
-
-## TIER 1C · 15 usable
-
-Conkeldurr
-
-Bloodmoon Ursaluna
-
-Mega Blaziken
-
-Mega Falinks
-
-Mega Lucario
-
-Shiny Infernape
-
-Shiny Pidgeot
-
-Slaking
-
-## TIER 2 · 19 usable
-
-Elite Hitmonchan
-
-Hariyama
-
-Lickilicky
-
-Pyroar Female
-
-Heracross
-
-Pyroar
-
-Shiny Munchlax
-
-Snorlax
-
-Toxicroak
-
-Pangoro
-
-Tank
-
-Tank
-
-Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Tank
-
-Tank
-
-Tank
-
-Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Offensive Tank
-
-Burst Damage Dealer
-
-Alolan Raticate
-
-Elite Farfetch'D
-
-Mega Kangaskhan
-
-Shiny Machamp
-
-Mega Audino
-
-Porygon-Z
-
-Shiny Stantler
-
-Shiny Girafarig
-
-Shiny Wigglytuff
-
-Ursaring
-
-Elite Hitmonlee
-
-Infernape
-
-Mega Medicham
-
-Blissey
-
-Drampa
-
-Zangoose
-
-Over Time Damage Dealer
-
-Over Time Damage Dealer
-
-Over Time Damage Dealer
-
-Over Time Damage Dealer
-
-Disruptor
-
-Disruptor
-
-Disruptor
-
-Burst Damage Dealer
-
-Burst Damage Dealer
-
-Burst Damage Dealer
-
-Over Time Damage Dealer
-
-Over Time Damage Dealer
-
-Over Time Damage Dealer
-
-Disruptor
-
-Healer
-
-Disruptor
-
-Disruptor
-
+**TIER 1A · 1 usable**
+- Shiny Snorlax (Tank)
+
+**TIER 1B · 1 usable**
+- Shiny Tauros (Offensive Tank)
+
+**TIER 1C · 15 usable**
+- Conkeldurr (Tank)
+- Bloodmoon Ursaluna (Offensive Tank)
+- Mega Blaziken (Offensive Tank)
+- Mega Falinks (Offensive Tank)
+- Mega Lucario (Offensive Tank)
+- Shiny Infernape (Offensive Tank)
+- Shiny Pidgeot (Offensive Tank)
+- Slaking (Offensive Tank)
+- Alolan Raticate (Over Time Damage Dealer)
+- Elite Farfetch'd (Over Time Damage Dealer)
+- Mega Kangaskhan (Over Time Damage Dealer)
+- Shiny Machamp (Over Time Damage Dealer)
+- Mega Audino (Disruptor)
+- Porygon-Z (Disruptor)
+- Shiny Stantler (Disruptor)
+
+**TIER 2 · 19 usable**
+- Elite Hitmonchan (Tank)
+- Hariyama (Tank)
+- Lickilicky (Tank)
+- Pyroar Female (Tank)
+- Heracross (Offensive Tank)
+- Pyroar (Offensive Tank)
+- Shiny Munchlax (Offensive Tank)
+- Snorlax (Offensive Tank)
+- Toxicroak (Offensive Tank)
+- Pangoro (Burst Damage Dealer)
+- Shiny Girafarig (Burst Damage Dealer)
+- Shiny Wigglytuff (Burst Damage Dealer)
+- Ursaring (Burst Damage Dealer)
+- Elite Hitmonlee (Over Time Damage Dealer)
+- Infernape (Over Time Damage Dealer)
+- Mega Medicham (Over Time Damage Dealer)
+- Blissey (Disruptor, Healer)
+- Drampa (Disruptor)
+- Zangoose (Disruptor)
+
+**TIER 3 · 18 usable**
+- Blaziken (Offensive Tank)
+- Falinks (Offensive Tank)
+- Breloom (Burst Damage Dealer)
+- Hawlucha (Burst Damage Dealer)
+- Kangaskhan (Burst Damage Dealer)
+- Lucario (Burst Damage Dealer)
+- Porygon2 (Burst Damage Dealer)
+- Purugly (Burst Damage Dealer)
+- Swellow (Burst Damage Dealer)
+- Girafarig (Over Time Damage Dealer)
+- Machamp (Over Time Damage Dealer)
+- Medicham (Over Time Damage Dealer)
+- Miltank (Healer)
+- Diggersby (Disruptor)
+- Keckleon (Disruptor)
+- Lopunny (Disruptor)
+- Poliwrath (Disruptor)
+- Wigglytuff (Disruptor)
 
 ## IRONHARD (Steel / Crystal)
+**TIER 1A · 1 usable**
+- Mega Scizor (Tank)
 
-## TIER 1A · 1 usable
+**TIER 1B · 1 usable**
+- Mega Aggron (Tank)
 
-Mega Scizor
+**TIER 1C · 15 usable**
+- Heatran (Tank)
+- Metagross (Tank)
+- Shiny Empoleon (Tank)
+- Alolan Sandslash (Offensive Tank)
+- Crystal Onix (Offensive Tank)
+- Mega Lucario (Offensive Tank)
+- Mega Mawile (Offensive Tank)
+- Mega Steelix (Offensive Tank)
+- Golden Steelix (Burst Damage Dealer)
+- Shiny Copperajah (Burst Damage Dealer)
+- Shiny Magnezone (Burst Damage Dealer)
+- Shiny Scizor (Over Time Damage Dealer)
+- Mega Chimecho (Healer, Disruptor)
+- Shiny Bronzong (Disruptor)
+- Shiny Magneton (Disruptor)
 
-Tank
+**TIER 2 · 16 usable**
+- Aggron (Tank)
+- Escavalier (Tank)
+- Shiny Ferrothorn (Tank)
+- Aegislash (Offensive Tank)
+- Probopass (Offensive Tank)
+- Shiny Metang (Offensive Tank)
+- Skarmory (Offensive Tank)
+- Bastiodon (Burst Damage Dealer)
+- Copperajah (Burst Damage Dealer)
+- Empoleon (Burst Damage Dealer)
+- Excadrill (Burst Damage Dealer)
+- Gholdengo (Over Time Damage Dealer)
+- Scizor (Over Time Damage Dealer)
+- Shiny Lucario (Over Time Damage Dealer)
+- Klefki (Disruptor, Support)
+- Magnezone (Disruptor)
 
-TIER 1B · 1 usable
+**TIER 3 · 6 usable**
+- Bisharp (Burst Damage Dealer)
+- Lucario (Burst Damage Dealer)
+- Togedemaru (Burst Damage Dealer)
+- Forretress (Support)
+- Mawile (Support)
+- Ferrothorn (Healer)
 
-Mega Aggron
+## PSYSCRAFT (Psychic / Fairy)
+**TIER 1A · 1 usable**
+- Shiny Alakazam (Burst Damage Dealer)
 
-Tank
+**TIER 1B · 1 usable**
+- Shiny Sylveon (Tank)
 
+**TIER 1C · 15 usable**
+- Metagross (Tank)
+- Shiny Gallade (Tank)
+- Shiny Granbull (Tank)
+- Wyrdder (Tank)
+- Alolan Ninetales (Offensive Tank)
+- Mega Gallade (Offensive Tank)
+- Shiny Delphox (Over Time Damage Dealer)
+- Mega Gardevoir (Disruptor, Healer)
+- Mega Altaria (Disruptor)
+- Shiny Bronzong (Disruptor)
+- Shiny Espeon (Disruptor)
+- Shiny Jynx (Disruptor)
+- Shiny Mr. Mime (Disruptor)
+- Shiny Xatu (Disruptor)
 
-## WINGEON (Flying / Dragon)
+**TIER 2 · 21 usable**
+- Shiny Azumarill (Tank)
+- Shiny Clefable (Tank)
+- Darmanitan (Offensive Tank)
+- Exeggutor (Offensive Tank)
+- Gallade (Offensive Tank)
+- Mimikyu (Offensive Tank)
+- Shiny Metang (Offensive Tank)
+- Whimsicott (Offensive Tank)
+- Alolan Raichu (Burst Damage Dealer)
+- Shiny Girafarig (Burst Damage Dealer)
+- Shiny Wigglytuff (Burst Damage Dealer)
+- Togekiss (Burst Damage Dealer)
+- Mega Medicham (Over Time Damage Dealer)
+- Shiny Starmie (Over Time Damage Dealer)
+- Gardevoir (Disruptor, Support)
+- Delphox (Disruptor)
+- Jynx (Disruptor)
+- Light Abra (Disruptor)
+- Mega Slowbro (Disruptor)
+- Shiny Hypno (Disruptor)
+- Slowking (Disruptor)
 
-## TIER 1A · 1 usable
+**TIER 3 · 8 usable**
+- Grumpig (Offensive Tank)
+- Girafarig (Over Time Damage Dealer)
+- Medicham (Over Time Damage Dealer)
+- Starmie (Over Time Damage Dealer)
+- Mawile (Support)
+- Lunatone (Healer, Disruptor)
+- Claydol (Disruptor)
+- Wigglytuff (Disruptor)
 
-Shiny Gyarados
+## SEAVELL (Water / Ice)
+**TIER 1A · 1 usable**
+- Shiny Gyarados (Tank)
 
-Tank
+**TIER 1B · 1 usable**
+- Shiny Glaceon (Tank)
 
+**TIER 1C · 15 usable**
+- Mamoswine (Tank)
+- Shiny Blastoise (Tank)
+- Shiny Empoleon (Tank)
+- Shiny Kingdra (Tank)
+- Alolan Ninetales (Offensive Tank)
+- Mega Baxcalibur (Offensive Tank)
+- Mega Gyarados (Offensive Tank)
+- Mega Swampert (Offensive Tank)
+- Shiny Tentacruel (Offensive Tank)
+- Mega Blastoise (Burst Damage Dealer)
+- Shiny Feraligatr (Burst Damage Dealer)
+- Milotic (Over Time Damage Dealer)
+- Shiny Jynx (Disruptor)
+- Shiny Lanturn (Disruptor)
+- Shiny Politoed (Disruptor)
 
-## PSYCRAFT (Psychic / Fairy)
+**TIER 2 · 22 usable**
+- Champion Poliwrath (Tank)
+- Golisopod (Tank)
+- Shiny Azumarill (Tank)
+- Shiny Cloyster (Tank)
+- Baxcalibur (Offensive Tank)
+- Kingdra (Offensive Tank)
+- Ludicolo (Offensive Tank)
+- Mantine (Offensive Tank)
+- Carracosta (Burst Damage Dealer)
+- Empoleon (Burst Damage Dealer)
+- Galarian Darmanitan (Burst Damage Dealer)
+- Galarian Zen Darmanitan (Burst Damage Dealer)
+- Weavile (Burst Damage Dealer)
+- Floatzel (Over Time Damage Dealer)
+- Shiny Piloswine (Over Time Damage Dealer)
+- Shiny Starmie (Over Time Damage Dealer)
+- Abomasnow (Disruptor)
+- Aurorus (Disruptor)
+- Jynx (Disruptor)
+- Mega Slowbro (Disruptor)
+- Slowking (Disruptor)
+- Walrein (Disruptor)
 
-## TIER 1A · 1 usable
-
-Shiny Alakazam
-
-Burst Damage Dealer
-
-TIER 1B · 1 usable
-
-Shiny Sylveon
-
-Tank
-
-
-## TIER 1A · 1 usable
-
-Shiny Gyarados
-
-Tank
-
-## TIER 1B · 1 usable
-
-Shiny Glaceon
-
-Tank
+**TIER 3 · 12 usable**
+- Kabutops (Tank)
+- Tentacruel (Offensive Tank)
+- Whiscash (Offensive Tank)
+- Lanturn (Burst Damage Dealer)
+- Piloswine (Burst Damage Dealer)
+- Sharpedo (Burst Damage Dealer)
+- Crawdaunt (Over Time Damage Dealer)
+- Starmie (Over Time Damage Dealer)
+- Glaceon (Healer, Disruptor)
+- Pelipper (Disruptor, Healer)
+- Poliwrath (Disruptor)
+- Swampert (Disruptor)
